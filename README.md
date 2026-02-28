@@ -37,7 +37,7 @@ O repositório está organizado em pastas, onde cada uma representa um exercíci
 
 ## ▶️ Como executar os exercícios
 
-### ✅ Opção 1 – Usando o OnlineGDB (recomendado)
+### ✅ Opção 1 – Usando o OnlineGDB 
 
 1. Acesse: https://www.onlinegdb.com/  
 2. Selecione a linguagem **Java**.  
