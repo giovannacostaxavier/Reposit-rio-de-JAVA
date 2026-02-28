@@ -49,7 +49,7 @@ O repositório está organizado em pastas, onde cada uma representa um exercíci
 
 ### ✅ Opção 2 – Executando localmente (opcional)
 
-Para executar os exercícios na sua máquina, é necessário ter o **JDK (Java Development Kit)** instalado.
+Para executar os exercícios no seu computador, é necessário ter o **JDK (Java Development Kit)** instalado.
 
 O JDK fornece:
 
@@ -62,7 +62,7 @@ Após instalar, verifique no terminal se aparece a versão:
 javac -version
 ```
 
-Depois disso execute:
+Depois disso é só executar com os seguintes comandos:
 ```bash
 javac Main.java
 java Main
@@ -70,6 +70,5 @@ java Main
 ## 📝 Observações
 
 - Este repositório é voltado para estudo e prática.
-- Os exercícios seguem a ordem das aulas do curso técnico.
-- O projeto não está vinculado à faculdade.
+- Os exercícios seguem a ordem das aulas práticas do meu curso.
 - Aqui registro minha evolução e aprendizado em programação Java.
