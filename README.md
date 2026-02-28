@@ -56,7 +56,20 @@ O JDK fornece:
 - `javac` → Compilador Java  
 - `java` → Executor de programas Java  
 
-Após instalar, verifique no terminal:
+Após instalar, verifique no terminal se aparece a versão:
 
 ```bash
 javac -version
+```
+
+Depois disso execute:
+```bash
+javac Main.java
+java Main
+```
+## 📝 Observações
+
+- Este repositório é voltado para estudo e prática.
+- Os exercícios seguem a ordem das aulas do curso técnico.
+- O projeto não está vinculado à faculdade.
+- Aqui registro minha evolução e aprendizado em programação Java.
