@@ -1,4 +1,4 @@
-# 📚 Exercícios de Java – Curso Técnico
+# 📚 Exercícios de Java
 
 Este repositório contém meus exercícios de programação em **Java**, desenvolvidos durante o curso de **Técnico Especialista em Sistemas Informáticos**.
 
